@@ -147,6 +147,43 @@ location = "xxxx.xx.com"
 | [AtomHub 可信镜像仓库平台](https://atomhub.openatom.cn/) (只包含基础镜像，共336个) | `https://atomhub.openatom.cn` |
 
 
+{
+  "registry-mirrors": [
+    "https://docker.registry.cyou",
+    "https://docker-cf.registry.cyou",
+    "https://dockercf.jsdelivr.fyi",
+    "https://docker.jsdelivr.fyi",
+    "https://dockertest.jsdelivr.fyi",
+    "https://mirror.aliyuncs.com",
+    "https://dockerproxy.com",
+    "https://mirror.baidubce.com",
+    "https://docker.m.daocloud.io",
+    "https://docker.nju.edu.cn",
+    "https://docker.mirrors.sjtug.sjtu.edu.cn",
+    "https://docker.mirrors.ustc.edu.cn",
+    "https://mirror.iscas.ac.cn",
+    "https://docker.rainbond.cc",
+    "https://dockerpull.com",
+    "https://dockerpull.cn",
+    "https://docker-cf.registry.cyou",
+    "https://docker.jsdelivr.fyi",
+    "https://dockercf.jsdelivr.fyi",
+    "https://dockertest.jsdelivr.fyi",
+    "https://atomhub.openatom.cn",
+    "https://docker.m.daocloud.io",
+    "https://docker.hpcloud.cloud",
+    "https://docker.awsl9527.cn",
+    "https://docker.ckyl.me",
+    "https://dockerhub.icu",
+    "https://dockerhub.jobcher.com",
+    "https://docker.chenby.cn",
+    "https://dockerhub.jobcher.com",
+    "https://docker.1panel.live",
+    "https://dockerproxy.cn",
+    "https://hub.rat.dev",
+    "https://docker.anyhub.us.kg"
+  ]
+}
 
 
 
